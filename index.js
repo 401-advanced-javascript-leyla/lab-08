@@ -1,6 +1,7 @@
 'use strict';
 
 // require('dotenv').config();
+const swagger = require('./api/swagger');
 const mongoose = require('mongoose');
 
 const mongooseOptions = {

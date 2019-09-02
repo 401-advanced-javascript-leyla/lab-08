@@ -7,6 +7,7 @@
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-leyla/lab-08/pulls)
 * [travis](https://www.travis-ci.com/search/lab-08)
+* [heroku](https://lab-08-leyla.herokuapp.com/)
 
 #### Documentation
 * [jsdoc](http://xyz.com)
@@ -19,6 +20,7 @@
 
 ### Setup
 * `PORT` - 3000
+* `Swagger` -3333
 * `MONGODB_URI` - inclueded in index.js
 
 #### Running the app
